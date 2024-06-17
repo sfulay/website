@@ -86,6 +86,6 @@ Hi! I'm a PhD student at MIT advised by <a href="https://www.media.mit.edu/peopl
 * <strong> 6.2024 </strong> Started an internship at Amazon, focusing on large language model alignment in the AGI Foundations organization
 * <strong> 9.2023 </strong> Released a preprint of <a href="https://assets.researchsquare.com/files/rs-3304585/v1/24f530ad-7940-4afe-afac-7f59775d2487.pdf?c=1697639901">  Polarized Speech on Online Platforms </a>, which is currently under review at Nature Human Behavior
 * <strong> 5.2023 </strong> Published a <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22220"> paper</a> in ICWSM proposing graph-based metrics to understand people's preferences on social networks 
-* <strong> 4.2023 </strong> Co instructed a class on <a href="https://ai4comm.media.mit.edu/"> generative AI at MIT</a>
+#* <strong> 4.2023 </strong> Co instructed a class on <a href="https://ai4comm.media.mit.edu/"> generative AI at MIT</a>
 
 {style="text-align: justify;"}
