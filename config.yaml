@@ -1,0 +1,28 @@
+baseURL: "https://sfulay.github.io/"
+languageCode: "en-us"
+title: "Suyash Fulay"
+
+params:
+  author: "Suyash Fulay"
+  description: "PhD student at MIT studying language models, AI alignment, and computational social science"
+  email: "fulaysuyash@gmail.com"
+  github: "sfulay"
+  twitter: "suyashfulay"
+  linkedin: "suyash-fulay"
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Publications"
+      url: "/publications/"
+      weight: 2
+    - name: "CV"
+      url: "/uploads/resume.pdf"
+      weight: 3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
