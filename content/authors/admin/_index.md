@@ -80,7 +80,7 @@ I recently completed my PhD at MIT advised by <a href="https://www.media.mit.edu
 </p>
 
 <p>
-Prior to graduate school, I was a founding member of the ML team at <a href="https://www.bridgewater.com">Bridgewater Associates</a>, where I worked with <a href="https://www.jsekhon.com/">Jasjeet Sekhon</a> to build machine learning pipelines for trading systems. I've also interned at <a href="https://www.amazon.science/">Amazon AGI Foundations</a>, working on alignment methods, and at <a href="http://mana.ai/">Mana AI</a>, building ML systems to automatically identfiy promising investment opportunuties.
+Prior to graduate school, I was a founding member of the ML team at <a href="https://www.bridgewater.com">Bridgewater Associates</a>, where I worked with <a href="https://www.jsekhon.com/">Jasjeet Sekhon</a> to build machine learning pipelines for trading systems. I've also interned at <a href="https://www.amazon.science/">Amazon AGI Foundations</a>, working on alignment methods, and at <a href="http://mana.ai/">Mana AI</a>, building ML systems to automatically identfiy promising investment opportunities.
 </p>
 
 <h3> Recent News </h3>
