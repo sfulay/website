@@ -1,11 +1,13 @@
 ---
-title: "Polarized Speech on On Online Platforms"
-authors: ["Suyash Fulay", "Deb Roy"]
-date: "2023-08-15T00:00:00Z"
+title: "Language Model Estimates Indicate Rising Outgroup Animosity Among a Sample of Partisan Users, Journalists, and Politicians on Reddit and Twitter"
+authors:
+- admin
+- Deb Roy
+date: "2026-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2026-04-07T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -14,8 +16,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "*Scientific Reports 2026*"
+publication_short: "*Scientific Reports 2026*"
 
 abstract: "While political polarization has increased as measured through surveys, currently we lack comprehensive,
 longitudinal, and ecologically valid measurement of the polarization of online political speech that spans
@@ -35,26 +37,28 @@ analysis reveals previously unknown patterns of polarization across platforms, g
 will help us better contextualize polarized content and potentially intervene to reduce it."
 
 # Summary. An optional shortened abstract.
-summary: "Using language models, we perform one of the largest studies of polarized speech on social media platforms."
+summary: "Using language models, we analyze 2.5 billion comments across 1.7 million accounts to study polarization on Reddit and Twitter from 2007-2023."
 
-publication: Under peer review at *Nature Human Behavior*
-publication_short: Under peer review at *Nature Human Behavior*
+# tags:
+# - Computational Social Science
+# - LLMs
+# - Network Science
+featured: true
 
-tags:
-- Source Themes
-featured: false
+# links:
+# - name: Scientific Reports
+#   url: 'https://www.nature.com/articles/s41598-026-43342-w'
+# - name: arXiv
+#   url: 'https://arxiv.org/abs/2308.15556'
 
-links:
-- name: Arxiv 2023
-  url: 'https://arxiv.org/abs/2308.15556'
-url_pdf: 'https://arxiv.org/pdf/2308.15556.pdf'
-# url_code: ''
-# url_dataset: '#'
-# url_poster: '#'
-# url_project: ''
-# url_slides: ''
-# url_source: '#'
-# url_video: '#'
+url_pdf: 'https://www.nature.com/articles/s41598-026-43342-w'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -78,9 +82,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
