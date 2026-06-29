@@ -76,7 +76,7 @@ email: ''
 highlight_name: true
 ---
 <p>
-I recently completed my PhD at MIT advised by <a href="https://www.media.mit.edu/people/dkroy/overview">Deb Roy</a>, where I did research on AI alignment, collective decision-making, and social networks.
+I recently completed my PhD at MIT advised by <a href="https://www.media.mit.edu/people/dkroy/overview">Deb Roy</a>, where I did research on AI alignment, collective decision-making, and social networks. My committee included <a href="https://miba.dev/">Michiel Bakker</a> and <a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a>.
 </p>
 
 <p>
