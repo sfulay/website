@@ -21,8 +21,8 @@ publication_short: "*Scientific Reports 2026*"
 
 abstract: "While political polarization has increased as measured through surveys, currently we lack comprehensive,
 longitudinal, and ecologically valid measurement of the polarization of online political speech that spans
-social media platforms. Using language models, we analyze~ 2.5 billion comments on Reddit and
-Twitter across ~ 1.7 million accounts from 2007–2023 and find that polarized speech has been rising on
+social media platforms. Using language models, we analyze ~2.5 billion comments on Reddit and
+Twitter across ~1.7 million accounts from 2007–2023 and find that polarized speech has been rising on
 both platforms since their inception, with outgroup polarization levels higher on Twitter than Reddit. On
 Twitter, while U.S. politicians on the left have been consistently more polarized than everyday users,
 politicians on the right experienced the highest growth in polarization, overtaking journalists, media, and
@@ -72,8 +72,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

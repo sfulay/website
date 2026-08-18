@@ -18,8 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'MIT'
-    description: 'Suyash Fulay, suyashfulay, Suyash, Fulay, suyash, fulay, suyashfulay.github.io,
-    suyash fulay'
+    description: 'Suyash Fulay is an MIT PhD researching AI alignment, collective decision-making, and social networks.'
     twitter: 'suyashfulay'
   analytics:
     google_analytics: ''
@@ -46,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Suyash Fulay. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -71,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: ''
     content_dir: content
     branch: main
   avatar:
